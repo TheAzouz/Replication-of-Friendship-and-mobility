@@ -1,4 +1,4 @@
-# Replication-Attempt
+# Replication of a paper: Friendship and mobility
 This project is a replication attempt of results of figure 2.a found in the paper "E. Cho, S. A. Myers, and J. Leskovec, ‘Friendship and mobility: user movement in location-based social networks’, in Proceedings of the 17th ACM SIGKDD international conference on Knowledge discovery and data mining - KDD ’11, San Diego, California, USA, 2011, p. 1082, doi: 10.1145/2020408.2020579."
 
 Replication data can be found here:
